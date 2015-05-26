@@ -1,5 +1,5 @@
 /**
- *
+ * Windowsがんばって
  */
 package jp.co.seattleconsulting.action;
 
