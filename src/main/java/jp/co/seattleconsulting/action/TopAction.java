@@ -44,6 +44,3 @@ public class TopAction {
 		return "top.jsp";
 	}
 }
-
-
-//Githubじゃい
